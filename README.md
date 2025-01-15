@@ -1,4 +1,4 @@
-# World-Quant-University-Applied Data Science Lab
+# WorldQuant University-Applied Data Science Lab
 
 This repository contains eight end-to-end data science projects completed as part of the **Applied Data Science Lab** by WorldQuant University. Each project demonstrates the use of real-world datasets, advanced analytics, machine learning, and visualization techniques to solve business and scientific problems.
 
